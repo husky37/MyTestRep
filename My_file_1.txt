@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 int a = 1234;
 double dd = 55.46;
-=======
-1234
 
 vector<int> mst = { 34, 67, 32 };
->>>>>>> new_string
